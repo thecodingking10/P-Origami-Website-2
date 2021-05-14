@@ -1,0 +1,30 @@
+.menu {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  font-style: normal;
+  font-weight: 400;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 0;
+}
+.descriptions {
+  background-image: Url("main2.jpg");
+  color: white;
+  height: 200px;
+  font-size: large;
+  font-family: sans-serif;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.origami {
+  border-radius: 30px;
+  width: 320px;
+}
+.grid img{
+  border: 2px solid black;
+  border-radius: 50px;
+} 
